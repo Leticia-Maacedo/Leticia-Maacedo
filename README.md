@@ -47,9 +47,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Leticia-Maacedo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d98bd8&icon_color=d98bd8&text_color=c9d1d9" />
+<a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer">
+  <img src="https://helio-github-stats.vercel.app/api?username=Leticia-Maacedo&custom_title=Estat%C3%ADsticas+do+GitHub&theme=transparent&title_color=ffb3de&text_color=ffffff&icon_color=ffb3de&ring_color=ffb3de&border_color=ffb3de&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="Estatísticas do GitHub" />
+</a>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Leticia-Maacedo&theme=transparent&hide_border=true&ring=d98bd8&fire=d98bd8&currStreakLabel=d98bd8" />
+<img height="165" src="https://streak-stats.demolab.com?user=Leticia-Maacedo&theme=transparent&hide_border=true&ring=ffb3de&fire=ffb3de&currStreakLabel=ffb3de" />
 
 </div>
 
