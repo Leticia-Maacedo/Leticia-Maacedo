@@ -12,23 +12,23 @@
 ### 💻 Habilidades técnicas
 
 
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=FFB3DE)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=FFB3DE)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logoColor=FFB3DE)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=FFB3DE)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=FFB3DE)
 ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=FFB3DE)
 ![Flask](https://img.shields.io/badge/Flask-0f172a?style=flat-square&logo=flask&logoColor=FFB3DE)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=FFB3DE)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=FFB3DE)
+![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=FFB3DE)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=FFB3DE)
 ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=FFB3DE)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=FFB3DE)
 ![Excel](https://img.shields.io/badge/Excel-0f172a?style=flat-square&logo=microsoftexcel&logoColor=FFB3DE)
 
 </div>
+
 
 ---
 
