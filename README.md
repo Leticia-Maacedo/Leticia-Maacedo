@@ -1,9 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB3DE&height=100&section=header&fontSize=64&fontAlignY=38&descAlignY=60&descSize=18&animation=fadeIn" />
 <div align="center">
-<br/>
 
 # Leticia Macedo
-<br/>
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB3DE&width=435&lines=Hello%2C+World!+%E2%99%A1" alt="Typing SVG" />
