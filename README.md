@@ -15,16 +15,28 @@
 
 <div align="center">
 
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=FFB3DE)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=FFB3DE)
 ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=FFB3DE)
 ![Flask](https://img.shields.io/badge/Flask-0f172a?style=flat-square&logo=flask&logoColor=FFB3DE)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=FFB3DE)
+![Vite](https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite&logoColor=FFB3DE)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0f172a?style=flat-square&logo=sqlalchemy&logoColor=FFB3DE)
+![Pydantic](https://img.shields.io/badge/Pydantic-0f172a?style=flat-square&logo=pydantic&logoColor=FFB3DE)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=FFB3DE)
 ![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=FFB3DE)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=FFB3DE)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=FFB3DE)
 ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=FFB3DE)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=FFB3DE)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0f172a?style=flat-square&logo=androidstudio&logoColor=FFB3DE)
+![PowerShell](https://img.shields.io/badge/PowerShell-0f172a?style=flat-square&logo=powershell&logoColor=FFB3DE)
+
+</div>
+
 
 </div>
 
