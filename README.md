@@ -25,7 +25,6 @@
 ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=FFB3DE)
 ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=FFB3DE)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=FFB3DE)
-![Excel](https://img.shields.io/badge/Excel-0f172a?style=flat-square&logo=microsoftexcel&logoColor=FFB3DE)
 
 </div>
 
