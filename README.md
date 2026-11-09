@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d14,50:51244f,100:0d0d14&height=150&section=header&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:ff69b4,100:ff1493&height=150&section=header"/>
 
 # Leticia Macedo
 
@@ -48,6 +48,6 @@
 
 ✦ *Aprendendo e evoluindo a cada linha de código* ✦
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d14,50:51244f,100:0d0d14&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:ff69b4,100:ff1493&height=100&section=footer"/>
 
 </div>
