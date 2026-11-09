@@ -5,39 +5,26 @@
 
 # Leticia Macedo
 
-✦ *Estudante de Sistemas de Informação* ✦
-
 </div>
 
 ---
 
-### 💻 Tech Stack
+### 💻 Habilidades técnicas
 
 <div align="center">
 
-**Linguagens**
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,postgres,git,github,vscode&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
-
-**Front-end**
-
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
-
-**Back-end & Banco de Dados**
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi,postgres&theme=dark" />
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<br/>
 
 <img src="https://img.shields.io/badge/SQL-51244F?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-51244F?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -49,7 +36,7 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Gráfico de contribuições
 
 <div align="center">
 
@@ -59,7 +46,7 @@
 
 <div align="center">
 
-✦ *keep learning, keep building* ✦
+✦ *Aprendendo e evoluindo a cada linha de código* ✦
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d14,50:51244f,100:0d0d14&height=100&section=footer" />
 
