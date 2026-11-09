@@ -1,7 +1,6 @@
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB3DE&height=100&section=header&fontSize=64&fontAlignY=38&descAlignY=60&descSize=18&animation=fadeIn" />
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:ff69b4,100:ff1493&height=150&section=header"/>
+<br/>
 
 # Leticia Macedo
 
@@ -58,18 +57,8 @@
 
 ---
 
-### 📈 Gráfico de contribuições
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leticia-Maacedo&bg_color=0d1117&color=ffb3de&line=ff69b4&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
-<div align="center">
 
 ✦ *Aprendendo e evoluindo a cada linha de código* ✦
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:ff69b4,100:ff1493&height=100&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB3DE,100:000000&height=100&section=footer&animation=fadeIn" />
